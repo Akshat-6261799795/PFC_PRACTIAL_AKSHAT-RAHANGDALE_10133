@@ -15,6 +15,9 @@ void printRightAngleTriangle(int n)
 int main()
 {
     int n ;
+    
+    // Name - Akshat Rahangdale
+    // Erp - 10133
     printf("Name: Akshat Rahangdale\nErp Id: 10133\n");
     scanf("%d", &n);
     printRightAngleTriangle(n);
@@ -31,4 +34,5 @@ int main()
 // ***
 // ****
 // *****
+
 
