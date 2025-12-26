@@ -29,3 +29,18 @@ int main() {
 
     return 0;
 }
+
+
+// Output of the code
+// Name: Akshat Rahangdale
+// Erp Id: 10133
+// Enter n: 5
+//     *
+//    ***
+//   *****
+//  *******
+// *********
+//  *******
+//   *****
+//    ***
+//     *
