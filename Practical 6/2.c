@@ -2,6 +2,9 @@
 
 int main() {
     int a, b, sum = 0;
+    
+    // Name - Akshat Rahangdale
+    // Erp - 10133
     printf("Name: Akshat Rahangdale\nErp Id: 10133\n");
 
     printf("Enter starting number: ");
@@ -28,3 +31,4 @@ int main() {
 // Enter starting number: 1
 // Enter ending number: 9
 // Sum of even numbers = 20
+
