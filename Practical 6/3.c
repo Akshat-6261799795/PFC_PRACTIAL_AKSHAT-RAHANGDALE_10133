@@ -24,3 +24,14 @@ int main() {
     
     return 0;
 }
+
+// Output of the code
+// Name: Akshat Rahangdale
+// Erp Id: 10133
+// Enter ATM PIN: 1223
+// Incorrect PIN. Attempts left: 2
+// Enter ATM PIN: 1235
+// Incorrect PIN. Attempts left: 1
+// Enter ATM PIN: 1234
+// Access Granted. Welcome!
+
