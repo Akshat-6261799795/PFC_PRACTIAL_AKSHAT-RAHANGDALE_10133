@@ -3,6 +3,9 @@
 int sumOfDigits(int n)
 {
     int sum = 0;
+    
+    // Name - Akshat Rahangdale
+    // Erp - 10133
     while (n != 0)
     {
         sum = sum + (n % 10);
@@ -25,3 +28,4 @@ int main()
 // Erp Id: 10133
 // 5643
 // Sum of digits = 18
+
