@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include#include <stdio.h>
 
 void printRightAngleTriangle(int n)
 {
@@ -15,19 +15,20 @@ void printRightAngleTriangle(int n)
 int main()
 {
     int n ;
-    scanf("%d", &n);
     printf("Name: Akshat Rahangdale\nErp Id: 10133\n");
+    scanf("%d", &n);
     printRightAngleTriangle(n);
     return 0;
 }
 
 
-
 // Output of the code
 // Name: Akshat Rahangdale
 // Erp Id: 10133
+// 5
 // *
 // **
 // ***
 // ****
 // *****
+
