@@ -2,6 +2,9 @@
 
 int main() {
     int n;
+    
+    // Name - Akshat Rahangdale
+    // Erp - 10133
     printf("Name: Akshat Rahangdale\nErp Id: 10133\n");
 
     printf("Enter n: ");
@@ -44,3 +47,4 @@ int main() {
 //   *****
 //    ***
 //     *
+
