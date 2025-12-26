@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main() {
+    
+    // Name - Akshat Rahangdale
+    // Erp - 10133
     printf("Name: Akshat Rahangdale\nErp Id: 10133\n");
     for (int i = 1; i <= 4; i++) {
         for (char ch = 'A'; ch < 'A' + i; ch++) {
@@ -18,3 +21,4 @@ int main() {
 // AB
 // ABC
 // ABCD
+
