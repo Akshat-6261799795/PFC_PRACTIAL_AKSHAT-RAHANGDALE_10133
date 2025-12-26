@@ -21,3 +21,10 @@ int main() {
 
     return 0;
 }
+
+// Output of the code 
+// Name: Akshat Rahangdale
+// Erp Id: 10133
+// Enter starting number: 1
+// Enter ending number: 9
+// Sum of even numbers = 20
