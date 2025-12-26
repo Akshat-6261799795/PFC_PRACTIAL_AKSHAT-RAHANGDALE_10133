@@ -1,18 +1,33 @@
-void printTriangle(int n) {
-    for (int i = 1; i <= n; i++) {
-        for (int j = 1; j <= i; j++) {
+#include <stdio.h>
+
+void printRightAngleTriangle(int n)
+{
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 1; j <= i; j++)
+        {
             printf("*");
         }
         printf("\n");
     }
 }
-#include <stdio.h>
 
-int main() {
-    int n;
-    printf("Enter n: ");
+int main()
+{
+    int n ;
     scanf("%d", &n);
     printf("Name: Akshat Rahangdale\nErp Id: 10133\n");
-    printTriangle(n);
+    printRightAngleTriangle(n);
     return 0;
 }
+
+
+
+// Output of the code
+// Name: Akshat Rahangdale
+// Erp Id: 10133
+// *
+// **
+// ***
+// ****
+// *****
