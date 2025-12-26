@@ -18,7 +18,7 @@ int main() {
 }
 
 
-
+// Output of the code
 // Sample Input
 // 1
 // 9
@@ -26,3 +26,4 @@ int main() {
 // Name: Akshat Rahangdale
 // Erp Id: 10133
 // Enter starting number: Enter ending number: 1 2 3 4 5 6 7 8 9  
+
