@@ -2,6 +2,9 @@
 
 int main() {
     int pin = 1234, enteredPin, attempts = 3;
+    
+    // Name - Akshat Rahangdale
+    // Erp - 10133
     printf("Name: Akshat Rahangdale\nErp Id: 10133\n");
 
     while (attempts > 0) {
@@ -34,4 +37,5 @@ int main() {
 // Incorrect PIN. Attempts left: 1
 // Enter ATM PIN: 1234
 // Access Granted. Welcome!
+
 
