@@ -16,3 +16,13 @@ int main() {
 
     return 0;
 }
+
+
+
+// Sample Input
+// 1
+// 9
+// Your Output
+// Name: Akshat Rahangdale
+// Erp Id: 10133
+// Enter starting number: Enter ending number: 1 2 3 4 5 6 7 8 9  
