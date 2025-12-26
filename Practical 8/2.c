@@ -9,6 +9,9 @@ void swap(int *a, int *b) {
 
 int main() {
     int x, y;
+    
+    // Name - Akshat Rahangdale
+    // Erp - 10133
     printf("Name: Akshat Rahangdale\nErp Id: 10133\n");
 
     printf("Enter two numbers: ");
@@ -31,3 +34,4 @@ int main() {
 // After swapping:
 // x = 56
 // y = 45
+
