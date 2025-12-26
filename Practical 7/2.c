@@ -1,8 +1,8 @@
-#include <stdio.h>
-
-int main() {
-    int n;
-    printf("Name: Akshat Rahangdale\nErp Id: 10133\n");
+    #include <stdio.h>
+    
+    int main() {
+        int n;
+        printf("Name: Akshat Rahangdale\nErp Id: 10133\n");
 
     printf("Enter n: ");
     scanf("%d", &n);
@@ -29,3 +29,18 @@ int main() {
 
     return 0;
 }
+
+
+// Output of the code
+// Name: Akshat Rahangdale
+// Erp Id: 10133
+// Enter n: 5
+// *********
+//  *******
+//   *****
+//    ***
+//     *
+//    ***
+//   *****
+//  *******
+// *********
