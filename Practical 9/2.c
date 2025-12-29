@@ -1,13 +1,24 @@
 #include <stdio.h>
 
 int main() {
-    int arr[5] = {4, 3, 2, 1, 5};
-    int i;
+    int n, i;
+    int arr[100];
     int max, min;
+    printf("Name- Akshat Rahangdale\nErp- 10133\n");
 
-    max = min = arr[0];
+    printf("Enter number of elements: ");
+    scanf("%d", &n);
 
-    for (i = 1; i < 5; i++) {
+
+    printf("Enter %d elements:\n", n);
+    for (i = 0; i < n; i++) {
+        scanf("%d", &arr[i]);
+    }
+
+    max = arr[0];
+    min = arr[0];
+
+    for (i = 1; i < n; i++) {
         if (arr[i] > max)
             max = arr[i];
         if (arr[i] < min)
@@ -20,6 +31,14 @@ int main() {
     return 0;
 }
 
-// Output for this code 
-// Maximum element = 5
-// Minimum element = 1
+// Output for the code 
+// Name- Akshat Rahangdale
+// Erp- 10133
+// Enter number of elements: 4
+// Enter 4 elements:
+// 3
+// 2
+// 4
+// 2
+// Maximum element = 4
+// Minimum element = 2
